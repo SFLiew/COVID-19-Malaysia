@@ -12,6 +12,7 @@ A) An overview understanding of the death case by distribution in age group, gen
 B) Correlation between death case and vaccination coverage
 
 
+
 Data Source:
 
 1. Death case and vaccination data are retrieved from open data available in the official Github account of Malaysia's Ministry of Health. https://github.com/MoH-Malaysia/covid19-public
