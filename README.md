@@ -1,5 +1,5 @@
-# COVID-19-Malaysia
 Correlation of COVID-19’s fatality case and vaccination coverage in Malaysia
+
 
 OVERVIEW:
 Covid-19 epidemic has been around the world since 2020. Many measurements are implemented to curb the infection, such as wearing face mask, keeping safety distance with others, and the most prioritized step taken by government is enforcing the vaccination. According to Health Minister Khairy Jamaluddin in March 2022, "two million people who received the Sinovac vaccine as their primary vaccination will lose their fully-vaccinated status (if they do not get their booster jab based on the deadline fixed by the ministry) on April 1". It seems vaccination is going to be a long haul requirement until the next more effective containment tool is available.
